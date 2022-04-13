@@ -1,2 +1,2 @@
 # News-Search
-![](buttonanimation.gif)
+![](preview.gif)
