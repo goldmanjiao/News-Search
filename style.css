@@ -40,9 +40,13 @@ label{
 
 a{
     color:chocolate;
+    font-size:15px;
 }
 
-ul li::before{
-    content: "✅"
+ul li::after{
+    content: "✅";
 }
 
+ul li a:visited::after{
+    content: "";
+}
